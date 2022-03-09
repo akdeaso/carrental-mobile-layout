@@ -76,6 +76,10 @@
 		<string>Helvetica-Oblique.ttf</string>
 		<string>helvetica-rounded-bold.otf</string>
 		<string>Helvetica.ttf</string>
+		<string>Helvetica-Compressed.otf</string>
+		<string>Helvetica-Light.ttf</string>
+		<string>Helvetica-Rounded-Bold.otf</string>
+		<string>Helvetica-Regular.ttf</string>
 	</array>
 </dict>
 </plist>
